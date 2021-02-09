@@ -1,0 +1,11 @@
+framework module FWSample {
+  umbrella header "FWSample.h"
+
+  export *
+  module * { export * }
+}
+
+module FWSample.Swift {
+    header "FWSample-Swift.h"
+    requires objc
+}
