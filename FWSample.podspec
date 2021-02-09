@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "FWSample"
   spec.version      = "0.0.1"
-  spec.summary      = "FrameworkSample is to test framework working or not with Cocoapods."
+  spec.summary      = "FWSample is to test framework working or not with Cocoapods."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 FWSample is to test framework working or not with Cocoapods. After integrating this one, just it will print SampleString in your project
                    DESC
 
-  spec.homepage     = "https://github.com/saikirantokala/FrameworkSample"
+  spec.homepage     = "https://github.com/saikirantokala/FWSample"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
